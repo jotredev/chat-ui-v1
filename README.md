@@ -20,3 +20,13 @@ npm dev
 #
 yarn dev
 ```
+
+💻 En computadora
+>
+<img width="1200" alt="Captura de Pantalla 2022-09-24 a la(s) 21 10 13" src="https://user-images.githubusercontent.com/50961956/195145894-e7074fa5-d0a2-4317-adbd-5b03af854d0f.png">
+
+📱 En móvil
+>
+<img width="350" alt="Captura de Pantalla 2022-09-24 a la(s) 21 11 11" src="https://user-images.githubusercontent.com/50961956/195146041-e99e4f0e-0148-47e7-b007-d44e0173a088.png">
+
+
